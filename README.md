@@ -13,4 +13,4 @@ Still designing + planning, but given a list of url's to filters:
 * update `ipfilter.dat` on a Windows system
 
 
-Based off [Transmission's](http://www.transmissionbt.com) methods after learning how it worked from the source.
+Based off [Transmission's](http://www.transmissionbt.com) methods after learning how it worked from the [source](https://trac.transmissionbt.com/browser/trunk/libtransmission/blocklist.c).
